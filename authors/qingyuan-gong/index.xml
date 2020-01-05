@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingyuan Gong | Qinge Xie</title>
+    <link>/authors/qingyuan-gong/</link>
+      <atom:link href="/authors/qingyuan-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingyuan Gong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 19:27:26 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qingyuan Gong</title>
+      <link>/authors/qingyuan-gong/</link>
+    </image>
+    
+    <item>
+      <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
+      <link>/publication/mini-sf/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/publication/mini-sf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

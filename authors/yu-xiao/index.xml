@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Xiao | Qinge Xie</title>
+    <link>/authors/yu-xiao/</link>
+      <atom:link href="/authors/yu-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Xiao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 20:01:17 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yu Xiao</title>
+      <link>/authors/yu-xiao/</link>
+    </image>
+    
+    <item>
+      <title>&#39;How do urban incidents affect traffic speed?&#39; A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction 	</title>
+      <link>/publication/traffic/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/publication/traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LBSLab: A User Data Collection System in Mobile Environments.</title>
+      <link>/publication/lbslab/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/publication/lbslab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
