@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiancheng Guo | Qinge Xie</title>
+<<<<<<< HEAD
     <link>https://xqgtest.github.io/authors/tiancheng-guo/</link>
       <atom:link href="https://xqgtest.github.io/authors/tiancheng-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiancheng Guo</description>
@@ -10,13 +11,29 @@
       <url>https://xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tiancheng Guo</title>
       <link>https://xqgtest.github.io/authors/tiancheng-guo/</link>
+=======
+    <link>/authors/tiancheng-guo/</link>
+      <atom:link href="/authors/tiancheng-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiancheng Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 20:01:17 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tiancheng Guo</title>
+      <link>/authors/tiancheng-guo/</link>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
     </image>
     
     <item>
       <title>&#39;How do urban incidents affect traffic speed?&#39; A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction 	</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/traffic/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/traffic/</guid>
+=======
+      <link>/publication/traffic/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/publication/traffic/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     

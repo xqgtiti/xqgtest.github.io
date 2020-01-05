@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruiyu Fang | Qinge Xie</title>
+<<<<<<< HEAD
     <link>https://xqgtest.github.io/authors/ruiyu-fang/</link>
       <atom:link href="https://xqgtest.github.io/authors/ruiyu-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruiyu Fang</description>
@@ -10,13 +11,29 @@
       <url>https://xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ruiyu Fang</title>
       <link>https://xqgtest.github.io/authors/ruiyu-fang/</link>
+=======
+    <link>/authors/ruiyu-fang/</link>
+      <atom:link href="/authors/ruiyu-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruiyu Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Oct 2018 20:36:49 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ruiyu Fang</title>
+      <link>/authors/ruiyu-fang/</link>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
     </image>
     
     <item>
       <title>LBSLab: A User Data Collection System in Mobile Environments.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/lbslab/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/lbslab/</guid>
+=======
+      <link>/publication/lbslab/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/publication/lbslab/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     

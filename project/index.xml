@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Qinge Xie</title>
+<<<<<<< HEAD
     <link>https://xqgtest.github.io/project/</link>
       <atom:link href="https://xqgtest.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
@@ -10,13 +11,29 @@
       <url>https://xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://xqgtest.github.io/project/</link>
+=======
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 21:39:15 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
     </image>
     
     <item>
       <title>New1</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/project/new1/</link>
       <pubDate>Sun, 05 Jan 2020 21:39:15 +0800</pubDate>
       <guid>https://xqgtest.github.io/project/new1/</guid>
+=======
+      <link>/project/new1/</link>
+      <pubDate>Sun, 05 Jan 2020 21:39:15 +0800</pubDate>
+      <guid>/project/new1/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     

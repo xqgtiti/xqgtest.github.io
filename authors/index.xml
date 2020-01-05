@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Qinge Xie</title>
+<<<<<<< HEAD
     <link>https://xqgtest.github.io/authors/</link>
       <atom:link href="https://xqgtest.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -10,221 +11,393 @@
       <url>https://xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://xqgtest.github.io/authors/</link>
+=======
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 20:01:17 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
     </image>
     
     <item>
       <title>Qinge Xie</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/qinge-xie/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/qinge-xie/</guid>
+=======
+      <link>/authors/qinge-xie/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/authors/qinge-xie/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Tiancheng Guo</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/tiancheng-guo/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/tiancheng-guo/</guid>
+=======
+      <link>/authors/tiancheng-guo/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/authors/tiancheng-guo/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Xin Wang and Ben Y. Zhao</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/xin-wang-and-ben-y.-zhao/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/xin-wang-and-ben-y.-zhao/</guid>
+=======
+      <link>/authors/xin-wang-and-ben-y.-zhao/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/authors/xin-wang-and-ben-y.-zhao/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Yang Chen</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/yang-chen/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/yang-chen/</guid>
+=======
+      <link>/authors/yang-chen/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/authors/yang-chen/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Yu Xiao</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/yu-xiao/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/yu-xiao/</guid>
+=======
+      <link>/authors/yu-xiao/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/authors/yu-xiao/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Ben Y. Zhao</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/ben-y.-zhao/</link>
       <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/ben-y.-zhao/</guid>
+=======
+      <link>/authors/ben-y.-zhao/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/authors/ben-y.-zhao/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Haitao Zheng</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/haitao-zheng/</link>
       <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/haitao-zheng/</guid>
+=======
+      <link>/authors/haitao-zheng/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/authors/haitao-zheng/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Qingyuan Gong</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/qingyuan-gong/</link>
       <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/qingyuan-gong/</guid>
+=======
+      <link>/authors/qingyuan-gong/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/authors/qingyuan-gong/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Xin Wang</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/xin-wang/</link>
       <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/xin-wang/</guid>
+=======
+      <link>/authors/xin-wang/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/authors/xin-wang/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Xinlei He</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/xinlei-he/</link>
       <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/xinlei-he/</guid>
+=======
+      <link>/authors/xinlei-he/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/authors/xinlei-he/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Jul. 2019 - Sept. 2019</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/jul.-2019-sept.-2019/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://xqgtest.github.io/authors/jul.-2019-sept.-2019/</guid>
+=======
+      <link>/authors/jul.-2019-sept.-2019/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jul.-2019-sept.-2019/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Supervised by Prof. Ben Y. Zhao and Prof. Heather Zheng</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/supervised-by-prof.-ben-y.-zhao-and-prof.-heather-zheng/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://xqgtest.github.io/authors/supervised-by-prof.-ben-y.-zhao-and-prof.-heather-zheng/</guid>
+=======
+      <link>/authors/supervised-by-prof.-ben-y.-zhao-and-prof.-heather-zheng/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/supervised-by-prof.-ben-y.-zhao-and-prof.-heather-zheng/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Xie Rong</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/xie-rong/</link>
       <pubDate>Mon, 19 Nov 2018 20:36:00 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/xie-rong/</guid>
+=======
+      <link>/authors/xie-rong/</link>
+      <pubDate>Mon, 19 Nov 2018 20:36:00 +0800</pubDate>
+      <guid>/authors/xie-rong/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Yu Xiao and Xin Wang</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/yu-xiao-and-xin-wang/</link>
       <pubDate>Mon, 19 Nov 2018 20:36:00 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/yu-xiao-and-xin-wang/</guid>
+=======
+      <link>/authors/yu-xiao-and-xin-wang/</link>
+      <pubDate>Mon, 19 Nov 2018 20:36:00 +0800</pubDate>
+      <guid>/authors/yu-xiao-and-xin-wang/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Gong Qingyuan</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/gong-qingyuan/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/gong-qingyuan/</guid>
+=======
+      <link>/authors/gong-qingyuan/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/authors/gong-qingyuan/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Guozhen She</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/guozhen-she/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/guozhen-she/</guid>
+=======
+      <link>/authors/guozhen-she/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/authors/guozhen-she/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Rui Han</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/rui-han/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/rui-han/</guid>
+=======
+      <link>/authors/rui-han/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/authors/rui-han/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Ruiyu Fang</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/ruiyu-fang/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/ruiyu-fang/</guid>
+=======
+      <link>/authors/ruiyu-fang/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/authors/ruiyu-fang/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Shihan Lin</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/shihan-lin/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/shihan-lin/</guid>
+=======
+      <link>/authors/shihan-lin/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/authors/shihan-lin/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Xiaoming Fu and Xin Wang.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/xiaoming-fu-and-xin-wang./</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/xiaoming-fu-and-xin-wang./</guid>
+=======
+      <link>/authors/xiaoming-fu-and-xin-wang./</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/authors/xiaoming-fu-and-xin-wang./</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Sept. 2018 - Dec. 2018</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/sept.-2018-dec.-2018/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://xqgtest.github.io/authors/sept.-2018-dec.-2018/</guid>
+=======
+      <link>/authors/sept.-2018-dec.-2018/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sept.-2018-dec.-2018/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Supervised by Prof. Yu Xiao</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/supervised-by-prof.-yu-xiao/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://xqgtest.github.io/authors/supervised-by-prof.-yu-xiao/</guid>
+=======
+      <link>/authors/supervised-by-prof.-yu-xiao/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/supervised-by-prof.-yu-xiao/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Oct. 2016 - present</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/oct.-2016-present/</link>
       <pubDate>Thu, 05 Jul 2018 22:33:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/oct.-2016-present/</guid>
+=======
+      <link>/authors/oct.-2016-present/</link>
+      <pubDate>Thu, 05 Jul 2018 22:33:17 +0800</pubDate>
+      <guid>/authors/oct.-2016-present/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Supervised by Prof. Yang Chen</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/supervised-by-prof.-yang-chen/</link>
       <pubDate>Thu, 05 Jul 2018 22:33:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/supervised-by-prof.-yang-chen/</guid>
+=======
+      <link>/authors/supervised-by-prof.-yang-chen/</link>
+      <pubDate>Thu, 05 Jul 2018 22:33:17 +0800</pubDate>
+      <guid>/authors/supervised-by-prof.-yang-chen/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Hao Zhao and Yang Chen.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/hao-zhao-and-yang-chen./</link>
       <pubDate>Tue, 05 Sep 2017 20:37:02 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/hao-zhao-and-yang-chen./</guid>
+=======
+      <link>/authors/hao-zhao-and-yang-chen./</link>
+      <pubDate>Tue, 05 Sep 2017 20:37:02 +0800</pubDate>
+      <guid>/authors/hao-zhao-and-yang-chen./</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Rong Xie</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/rong-xie/</link>
       <pubDate>Tue, 05 Sep 2017 20:37:02 +0800</pubDate>
       <guid>https://xqgtest.github.io/authors/rong-xie/</guid>
+=======
+      <link>/authors/rong-xie/</link>
+      <pubDate>Tue, 05 Sep 2017 20:37:02 +0800</pubDate>
+      <guid>/authors/rong-xie/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title></title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xqgtest.github.io/authors/admin/</guid>
+=======
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description>&lt;p&gt;I&#39;m a master student in the School of Computer Science in Fudan University. I am advised by Prof. &lt;a href=&#34;https://chenyang03.wordpress.com/&#34;&gt;Yang Chen&lt;/a&gt;, and work with Mobile Systems and Networking (MSN) Group. I visited Aalto University as a research intern in the &lt;a href=&#34;http://mobilecloud.aalto.fi/&#34;&gt;Mobile Cloud Computing group&lt;/a&gt;, supervised by Prof. &lt;a href=&#34;https://people.aalto.fi/yu.xiao&#34;&gt;Yu Xiao&lt;/a&gt; in 2018 and visited the University of Chicago as a research intern in the &lt;a href=&#34;http://sandlab.cs.uchicago.edu/&#34;&gt;SAND Lab&lt;/a&gt;, supervised by Prof. &lt;a href=&#34;http://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Y. Zhao&lt;/a&gt; and Prof. &lt;a href=&#34;http://people.cs.uchicago.edu/~htzheng/&#34;&gt;Heather Zheng&lt;/a&gt; in 2019.&lt;/p&gt;
 &lt;p&gt;My research interests are primarily in systems and security, particularly in mobile systems and computing, security problems for system, deep learning and networking, and applications of deep learning to systems. See my &lt;a href=&#34;files/qinge-xie-cv.pdf&#34;&gt;CV&lt;/a&gt; here.&lt;/p&gt;
 </description>

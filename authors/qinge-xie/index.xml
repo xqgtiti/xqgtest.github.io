@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qinge Xie</title>
+<<<<<<< HEAD
     <link>https://xqgtest.github.io/authors/qinge-xie/</link>
       <atom:link href="https://xqgtest.github.io/authors/qinge-xie/index.xml" rel="self" type="application/rss+xml" />
     <description>Qinge Xie</description>
@@ -10,45 +11,85 @@
       <url>https://xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Qinge Xie</title>
       <link>https://xqgtest.github.io/authors/qinge-xie/</link>
+=======
+    <link>/authors/qinge-xie/</link>
+      <atom:link href="/authors/qinge-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qinge Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 20:01:17 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qinge Xie</title>
+      <link>/authors/qinge-xie/</link>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
     </image>
     
     <item>
       <title>&#39;How do urban incidents affect traffic speed?&#39; A Deep Graph Convolutional Network for Incident-driven Traffic Speed Prediction 	</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/traffic/</link>
       <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/traffic/</guid>
+=======
+      <link>/publication/traffic/</link>
+      <pubDate>Sun, 05 Jan 2020 20:01:17 +0800</pubDate>
+      <guid>/publication/traffic/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Trimming Mobile Applications for Bandwidth-Challenged Networks in Developing Regions.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/mini-sf/</link>
       <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/mini-sf/</guid>
+=======
+      <link>/publication/mini-sf/</link>
+      <pubDate>Sun, 05 Jan 2020 19:27:26 +0800</pubDate>
+      <guid>/publication/mini-sf/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>We know your preferences in new cities: Mining and modeling the behavior of travelers.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/city-behavior/</link>
       <pubDate>Mon, 19 Nov 2018 20:36:00 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/city-behavior/</guid>
+=======
+      <link>/publication/city-behavior/</link>
+      <pubDate>Mon, 19 Nov 2018 20:36:00 +0800</pubDate>
+      <guid>/publication/city-behavior/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>LBSLab: A User Data Collection System in Mobile Environments.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/lbslab/</link>
       <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/lbslab/</guid>
+=======
+      <link>/publication/lbslab/</link>
+      <pubDate>Fri, 05 Oct 2018 20:36:49 +0800</pubDate>
+      <guid>/publication/lbslab/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
     <item>
       <title>Understanding user activity patterns of the Swarm app: a data-driven study.</title>
+<<<<<<< HEAD
       <link>https://xqgtest.github.io/publication/swarm/</link>
       <pubDate>Tue, 05 Sep 2017 20:37:02 +0800</pubDate>
       <guid>https://xqgtest.github.io/publication/swarm/</guid>
+=======
+      <link>/publication/swarm/</link>
+      <pubDate>Tue, 05 Sep 2017 20:37:02 +0800</pubDate>
+      <guid>/publication/swarm/</guid>
+>>>>>>> 963be956a9d3349c30b9748b10980d5e5c1132d0
       <description></description>
     </item>
     
