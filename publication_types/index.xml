@@ -5,7 +5,7 @@
     <link>xqgtest.github.io/publication_types/</link>
       <atom:link href="xqgtest.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 20:35:43 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 01:25:04 +0800</lastBuildDate>
     <image>
       <url>/xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>2</title>
+      <link>xqgtest.github.io/publication_types/2/</link>
+      <pubDate>Mon, 06 Jan 2020 01:25:04 +0800</pubDate>
+      <guid>xqgtest.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>xqgtest.github.io/publication_types/1/</link>
+      <pubDate>Mon, 06 Jan 2020 01:24:49 +0800</pubDate>
+      <guid>xqgtest.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>0</title>
       <link>xqgtest.github.io/publication_types/0/</link>
-      <pubDate>Sun, 05 Jan 2020 20:35:43 +0800</pubDate>
+      <pubDate>Mon, 08 Oct 2018 01:25:11 +0800</pubDate>
       <guid>xqgtest.github.io/publication_types/0/</guid>
       <description></description>
     </item>

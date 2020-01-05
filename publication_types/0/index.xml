@@ -5,7 +5,7 @@
     <link>xqgtest.github.io/publication_types/0/</link>
       <atom:link href="xqgtest.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 20:35:43 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Oct 2018 01:25:11 +0800</lastBuildDate>
     <image>
       <url>/xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Lsh</title>
+      <title>LBSLab: A User Data Collection System in Mobile Environments.</title>
+      <link>xqgtest.github.io/publication/labs/</link>
+      <pubDate>Mon, 08 Oct 2018 01:25:11 +0800</pubDate>
+      <guid>xqgtest.github.io/publication/labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding user activity patterns of the swarm app: A data-driven study.</title>
       <link>xqgtest.github.io/publication/swarm/</link>
-      <pubDate>Sun, 05 Jan 2020 20:35:43 +0800</pubDate>
+      <pubDate>Thu, 05 Oct 2017 20:35:43 +0800</pubDate>
       <guid>xqgtest.github.io/publication/swarm/</guid>
       <description></description>
     </item>
