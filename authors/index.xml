@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Qinge Xie</title>
+    <link>https://github.com/xqgtiti/xqgtest.github.io/authors/</link>
+      <atom:link href="https://github.com/xqgtiti/xqgtest.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/xqgtiti/xqgtest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://github.com/xqgtiti/xqgtest.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Prof. Ben Y. Zhao and Prof. Heather Zheng</title>
+      <link>https://github.com/xqgtiti/xqgtest.github.io/authors/prof.-ben-y.-zhao-and-prof.-heather-zheng/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://github.com/xqgtiti/xqgtest.github.io/authors/prof.-ben-y.-zhao-and-prof.-heather-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/xqgtiti/xqgtest.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/xqgtiti/xqgtest.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m a master student in the School of Computer Science in Fudan University. I am advised by Prof. &lt;a href=&#34;https://chenyang03.wordpress.com/&#34;&gt;Yang Chen&lt;/a&gt;, and work with Mobile Systems and Networking (MSN) Group. I visited Aalto University as a research intern in the &lt;a href=&#34;http://mobilecloud.aalto.fi/&#34;&gt;Mobile Cloud Computing Group&lt;/a&gt;, supervised by Prof. &lt;a href=&#34;https://people.aalto.fi/yu.xiao&#34;&gt;Yu Xiao&lt;/a&gt; in 2018 and visited the University of Chicago as a research intern in &lt;a href=&#34;http://sandlab.cs.uchicago.edu/&#34;&gt;Sand Lab&lt;/a&gt;, supervised by Prof. &lt;a href=&#34;http://people.cs.uchicago.edu/~ravenben/&#34;&gt;Ben Y. Zhao&lt;/a&gt; and Prof. &lt;a href=&#34;http://people.cs.uchicago.edu/~htzheng/&#34;&gt;Heather Zheng&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research interests are primarily in systems and security, particularly in mobile systems and computing, security problems for system, deep learning and networking, and applications of deep learning to systems. See my &lt;a href=&#34;files/qinge-xie-cv.pdf&#34;&gt;CV&lt;/a&gt; here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
